@@ -1,6 +1,4 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
-
+You can view the result from the link : https://ruslan17397.github.io/Space-challenge-3D-ISS-Tracking/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
